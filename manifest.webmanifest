@@ -1,0 +1,12 @@
+{
+  "name": "Side Street Brawl",
+  "short_name": "Street Brawl",
+  "description": "A mobile-first street fighting game prototype.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "icons": []
+}
